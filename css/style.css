@@ -33,7 +33,7 @@ audio:not([controls]) {
   display: none; }
 
 html {
-  background: #fff;
+  background:rgb(228 250 251 / 45%);
   color: #000;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%; }
@@ -46,6 +46,7 @@ textarea {
   font-family: sans-serif; }
 
 body {
+  text-align: center;
   margin: 0; }
 
 a {
@@ -211,19 +212,16 @@ table {
  * Global Styles
  */
 body {
-  color: #fff;
+  color: #a19446;
   font-family: Museo, Raleway, "Open Sans", sans-serif;
-  font-size: 18px;
+  font-size: 17px;
   font-weight: 300;
   line-height: normal;
-  background-image: -webkit-radial-gradient(circle, #39323e, #262029);
-  background-image: radial-gradient(circle, #39323e, #262029);
-  background-size: cover;
-  background-atachment: fixed; }
+  }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
-  margin: 0 0 20px; }
+  margin: 0 0 19px; }
 
 hr {
   border: none;
@@ -235,7 +233,7 @@ ul, ol {
 
 a {
   text-decoration: none;
-  color: #61d8ba; }
+  color: #ca242c; }
 
 address {
   font-style: normal; }
