@@ -46,7 +46,7 @@
 
 		setCountDown();
 
-		new WOW().init();
+		// new WOW().init();
 	});
 
 	$(window).load(function(){
